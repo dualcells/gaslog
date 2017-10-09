@@ -9,11 +9,11 @@ A simple sql database to track distance and fuel over time.
 
 ## Examples
 
-!["Graph of total price per fill-up"](https://github.com/dualcells/gaslog/samples/plot_cost_date.png "Graph of total price per fill-up")
+!["Graph of total price per fill-up"](https://github.com/dualcells/gaslog/blob/master/samples/plot_cost_date.png "Graph of total price per fill-up")
 
-!["Graph of odometer readings over time"](https://github.com/dualcells/gaslog/samples/plot_dist_date.png "Graph of odometer readings over time")
+!["Graph of odometer readings over time"](https://github.com/dualcells/gaslog/blob/master/samples/plot_dist_date.png "Graph of odometer readings over time")
 
-!["Graph of total litres per fill-up"](https://github.com/dualcells/gaslog/samples/plot_fill_date.png "Graph of total litres per fill-up")
+!["Graph of total litres per fill-up"](https://github.com/dualcells/gaslog/blob/master/samples/plot_fill_date.png "Graph of total litres per fill-up")
 
 ### TODO:
   * Add python scripts to create graphs.
